@@ -42,8 +42,11 @@ img{
 }
 .year{
     flex: 1;
+    margin-top: 40px;
+
 }
 .details{
     flex: 1;
+    margin-bottom: 10px;
 }
 
