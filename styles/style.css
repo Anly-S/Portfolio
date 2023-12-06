@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    width: 100%;
+    
+}
+.left{
+    flex:1;
+    padding: 20px;
+    background-color:rgb(20, 16, 16);
+    color: white;
+
+}
+img{
+
+    width: 70%;
+    
+}
+.right{
+    flex:2;
+    background-color: white;
+    color: black;
+   
+}
+.header{
+    background-color: yellow;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    padding-left: 60px;
+    padding-top: 10px;
+    height: 100px;
+    margin-top: 6%;
+}
+.top{
+    background-color: white;
+}
+.content
+{
+    padding-left: 30px;
+}
+.qualification{
+    display: flex;
+}
+.year{
+    flex: 1;
+}
+.details{
+    flex: 1;
+}
+
